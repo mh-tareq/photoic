@@ -182,6 +182,7 @@ nav.main-nav {
 	padding: 2px 0px;
 }
 
-.menu-item-has-children:hover>ul {
+.menu-item-has-children:hover>ul,
+.page_item_has_children:hover>ul {
 	display: block;
 }
